@@ -8,6 +8,8 @@ Fala galera, mais um desafio concluido do frontend mentor e me surpreendi com o 
 
 Sigo em constante evolução :), daqui um tempo espero conseguir fazer desafios mais complexos, conforme for fazendo irei atualizando os repositorios.
 
+https://eldio-neto.github.io/order-summary-component-main/
+
 Valeu pela atenção.
 
 
